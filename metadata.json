@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Asistencia - 84 Municipios de Hidalgo",
+  "description": "Sistema de pase de lista, quórum legal y reporte de asistencia para los 84 presidentes municipales del Estado de Hidalgo con configuración JSON reutilizable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
